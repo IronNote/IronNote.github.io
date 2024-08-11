@@ -22,7 +22,7 @@ title_separator          : "|"
 subtitle                 : "Carpe Diem"
 name                     : "IronNote"
 description              : "김명철의 블로그 입니다."
-url                      : "https://IronNote.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://IronNote.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -36,7 +36,7 @@ copyright_url            : # "copyright" URL, defaults to site.url
 comments:
   provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
   disqus:
-    shortname            : "Iron Note" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            : "ironnote" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
